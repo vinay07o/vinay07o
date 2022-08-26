@@ -41,3 +41,17 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinay07o&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay07o&theme=vue" />
 </p>
+
+## 📟 Programming Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaya07o&layout=compact)](https://github.com/vinay07o/glm)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+---
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
