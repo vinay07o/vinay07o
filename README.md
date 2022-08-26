@@ -6,7 +6,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building Data Science Developer
+- 🔭 I’m currently building Data Science Models
 - 🌱 I’m currently learning more about Machine Learning and Artificial Intelligence(AI).
 - 💬 Ask me about Python development and Machine Learning.
 - 📫 How to reach me: Check social links below.
