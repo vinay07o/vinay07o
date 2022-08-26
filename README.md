@@ -2,8 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Vinayaka Onkar</h1>
-        
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="vinayaka" /> </p>
+
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
@@ -12,3 +11,6 @@
 - 💬 Ask me about Python development and Machine Learning.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 10 hours to Sleep every day.
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinay_onkar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayaka-o)
