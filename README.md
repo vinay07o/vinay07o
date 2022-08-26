@@ -43,7 +43,7 @@
 </p>
 
 ## 📟 Programming Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaya07o&layout=compact)](https://github.com/vinay07o/glm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay07o&layout=compact)](https://github.com/vinay07o/glm)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
